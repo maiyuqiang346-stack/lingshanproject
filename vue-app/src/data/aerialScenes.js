@@ -1,0 +1,16 @@
+export const aerialScenes = [
+  { n: '九龙灌浴', s: 'web/九龙灌浴.jpg', t: 'thumbs/九龙灌浴.jpg' },
+  { n: '九龙灌浴2', s: 'web/九龙灌浴2.jpg', t: 'thumbs/九龙灌浴2.jpg' },
+  { n: '五印坛城', s: 'web/五印坛城.jpg', t: 'thumbs/五印坛城.jpg' },
+  { n: '灵山门前5', s: 'web/灵山门前5.jpg', t: 'thumbs/灵山门前5.jpg' },
+  { n: '灵山门前6', s: 'web/灵山门前6.jpg', t: 'thumbs/灵山门前6.jpg' },
+  { n: '灵山门前7', s: 'web/灵山门前7.jpg', t: 'thumbs/灵山门前7.jpg' },
+  { n: '灵山门前8', s: 'web/灵山门前8.jpg', t: 'thumbs/灵山门前8.jpg' },
+  { n: '王柱', s: 'web/王柱.jpg', t: 'thumbs/王柱.jpg' },
+  { n: '王柱2', s: 'web/王柱2.jpg', t: 'thumbs/王柱2.jpg' },
+  { n: '梵宫(航拍)', s: 'web/梵宫-1957ae3c8bb4.jpg', t: 'thumbs/梵宫-1957ae3c8bb4.jpg' },
+  { n: '三王殿(航拍)', s: 'web/三王殿-b79e20d6fdbe.jpg', t: 'thumbs/三王殿-b79e20d6fdbe.jpg' },
+  { n: '航拍0550', s: 'web/dji_20260506125311_0550_d.jpg', t: 'thumbs/dji_20260506125311_0550_d.jpg' },
+  { n: '航拍0552', s: 'web/dji_20260506125359_0552_d.jpg', t: 'thumbs/dji_20260506125359_0552_d.jpg' },
+  { n: '航拍0553', s: 'web/dji_20260506125424_0553_d.jpg', t: 'thumbs/dji_20260506125424_0553_d.jpg' },
+];
